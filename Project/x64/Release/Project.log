@@ -1,0 +1,17 @@
+﻿  Convert.cpp
+  QInt.cpp
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(10,23): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(10,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(28,23): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(28,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(92,24): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(92,44): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(165,24): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(165,44): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(294,21): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(329,26): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\ADMIN\Desktop\project\Project\Project\QInt.cpp(650,21): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\project\Project\Project\Source.cpp(6,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+Convert.obj : error LNK2001: unresolved external symbol "public: class QInt __cdecl QInt::operator=(class QInt)" (??4QInt@@QEAA?AV0@V0@@Z)
+C:\Users\ADMIN\Desktop\project\Project\x64\Release\Project.exe : fatal error LNK1120: 1 unresolved externals
